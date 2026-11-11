@@ -155,4 +155,4 @@ IPFire was configured through its web UI with a default-deny stance. Verified fr
 
 ---
 
-> ⚠️ **Disclaimer:** All testing was done in an isolated virtual lab on machines I own and configured. Do not run these tools against networks you don't have permission to test.
+**Disclaimer:** All testing was done in an isolated virtual lab on machines I own and configured. 
