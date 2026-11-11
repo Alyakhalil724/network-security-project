@@ -1,4 +1,4 @@
-# Open-Source Firewall Lab: nftables vs IPFire
+# Open-Source Firewall Project: nftables vs IPFire
 
 A hands-on network security project in which I built, configured and attacked two open-source firewalls in an isolated virtual lab, then compared how they performed.
 
